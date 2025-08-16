@@ -1,0 +1,24 @@
+{
+  "name": "aniplay",
+  "version": "1.0.1",
+  "description": "A package for serving anime information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyntaxSama/AniPlay.git"
+  },
+  "keywords": [
+    "Anime",
+    "Streaming",
+    "Otaku"
+  ],
+  "author": "SyntaxSama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyntaxSama/AniPlay/issues"
+  },
+  "homepage": "https://github.com/SyntaxSama/AniPlay#readme"
+}
