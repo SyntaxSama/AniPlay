@@ -1,5 +1,5 @@
 async function fetchHD5Stream(malID, episodeNumber) {
-  const url = `https://animeembed.com/embed/${malID}/${episodeNumber}`;
+  const url = `https://animembed.com/embed/${malID}/${episodeNumber}`;
   return url;
 }
 
